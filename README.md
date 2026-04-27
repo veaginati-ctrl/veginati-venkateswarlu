@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Venkateswarlu Veginati</h1>
+<h1 <h1 align="center">Hi 👋, I'm Venkateswarlu Veginati</h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
@@ -8,28 +8,20 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Graduate (2022) | Internship (2023) | Ex-TCS  
+- 🎓 MCA Graduate (2023 – 2025)  
+- 💼 Data Science Intern at Rubex (June 2025 – Feb 2026)  
 - 📊 Passionate about Data Science & Machine Learning  
 - 🔍 Developed ML models using real-world datasets (10K+ records)  
 - 🚀 Built and deployed ML apps using Streamlit  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,sql,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,sql" />
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-
-## 📊 Data Science Tools
-<p align="left">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
-<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 </p>
 
 ---
@@ -43,6 +35,13 @@
 
 - 🔹 Student Transcript Extraction (NLP Project)  
 - 🔹 Data Analysis Dashboard  
+
+---
+
+## 💻 Development Environment
+- VS Code  
+- Google Colab  
+- Jupyter Notebook  
 
 ---
 
